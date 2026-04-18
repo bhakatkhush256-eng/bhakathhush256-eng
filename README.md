@@ -1,21 +1,46 @@
-<h1 align="center">Hi 👋, I'm Khush Bhakat</h1>
-<h3 align="center">IT Student | Data Analyst | Python, SQL, Excel & Power BI Enthusiast</h3>
+# Khushbakhat Bhakat
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhakatkhush256-eng&label=Profile%20views&color=0e75b6&style=flat" alt="bhakatkhush256-eng" /> </p>
+**Data Analyst** | SQL • Python • Power BI • Excel
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhakatkhush256-eng" alt="bhakatkhush256-eng" /></a> </p>
+Building data-driven solutions for business intelligence and customer analytics.
 
-- Transforming raw data into actionable insights. Learning, analyzing, and building projects to grow as a professional data analyst. **E-Commerce Sales Analysis Project**
+---
 
-- 🌱 I’m currently learning **Advanced Excel & Dashboarding SQL (Advanced Queries & Aggregations) Python for Data Analysis Power BI R Programming Data Cleaning & Preprocessing**
+## Technical Expertise
 
-- 👯 I’m looking to collaborate on **Open-source data analysis projects Data visualization & dashboard projects Learning and applying advanced Python & SQL techniques**
+**Data Analysis & Querying**  
+SQL (MySQL, PostgreSQL) • Python (Pandas, NumPy) • Advanced Excel
 
-- 💬 Ask me about **“I’m a data analyst, and you can ask me about my projects, tools, techniques, and data analysis skills I’ve applied.**
+**Visualization & Reporting**  
+Power BI • Data Storytelling • Dashboard Design
 
-- 📫 How to reach me **bhakatkhush256@gmail.com**
+**Database Management**  
+Query Optimization • Data Modeling • ETL Processes
 
-- ⚡ Fun fact **I get excited about messy datasets because cleaning them feels like solving a puzzle 🧩 Coffee is my data analysis fuel ☕📊 I love turning raw numbers into stories that make sense to humans Even as a student, I treat every dataset like a mini-investigation 🔍 I enjoy learning new tools and immediately testing them on real data**
+---
+
+## Portfolio Projects
+
+### [E-Commerce Customer Insights](https://github.com/bhakatkhush256-eng/ecommerce-sales-customer-insights-sql)
+Analyzed customer behavior, revenue trends, and high-value segments to drive business decisions.  
+*SQL | Revenue Analytics | Customer Segmentation*
+
+### [Food Delivery Business Analysis](https://github.com/bhakatkhush256-eng/food-delivery-analysis)
+Performance analysis of food delivery operations across Pakistani cities.  
+*SQL | Business Intelligence | Market Analysis*
+
+### [PSL Team Performance Analytics](https://github.com/bhakatkhush256-eng/SQL-analysis-of-PSL-team-performance-2023-2024)
+Comprehensive statistical analysis of Pakistan Super League 2023-2024 season.  
+*SQL | Sports Analytics | Performance Metrics*
+
+---
+
+## Contact
+
+📧 bhakatkhush256@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/khush-bhakat-97ba07394)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhakatkhush256-eng&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
