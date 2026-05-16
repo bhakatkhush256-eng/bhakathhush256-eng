@@ -1,57 +1,126 @@
 # Khushbakhat Bhakat
 
-**Data Analyst** | SQL • Python • Power BI • Excel
+**Data Analyst** | Turning Raw Data into Actionable Business Insights
 
-Building data-driven solutions for business intelligence and customer analytics.
+Specialized in SQL-driven analytics, customer behavior analysis, and revenue intelligence. Currently building a portfolio of end-to-end data projects focused on Pakistani market contexts.
+
+📍 Gujranwala, Punjab, Pakistan | 🎓 BSIT Student, GC University Faisalabad (Expected 2027)
 
 ---
 
-## Technical Expertise
+## 🛠️ Technical Skills
 
 **Data Analysis & Querying**  
-SQL (MySQL, PostgreSQL) • Python (Pandas, NumPy) • Advanced Excel
+• SQL (MySQL, PostgreSQL) — Complex joins, window functions, CTEs, query optimization  
+• Python (Pandas, NumPy, Matplotlib) — Data cleaning, EDA, statistical analysis  
+• Excel — Advanced formulas, pivot tables, Power Query, dashboard design
 
-**Visualization & Reporting**  
-Power BI • Data Storytelling • Dashboard Design
+**Visualization & BI Tools**  
+• Power BI — Interactive dashboards, DAX measures, data modeling  
+• Excel Dashboards — Dynamic reporting with slicers and advanced charts  
+• Data Storytelling — Translating metrics into business narratives
 
-**Database Management**  
-Query Optimization • Data Modeling • ETL Processes
-
----
-
-## Portfolio Projects
-
-### [E-Commerce Customer Insights](https://github.com/bhakatkhush256-eng/ecommerce-sales-customer-insights-sql)
-Analyzed customer behavior, revenue trends, and high-value segments to drive business decisions.  
-*SQL | Revenue Analytics | Customer Segmentation*
-
-### [Food Delivery Business Analysis](https://github.com/bhakatkhush256-eng/food-delivery-analysis)
-Performance analysis of food delivery operations across Pakistani cities.  
-*SQL | Business Intelligence | Market Analysis*
-
-### [PSL Team Performance Analytics](https://github.com/bhakatkhush256-eng/SQL-analysis-of-PSL-team-performance-2023-2024)
-Comprehensive statistical analysis of Pakistan Super League 2023-2024 season.  
-*SQL | Sports Analytics | Performance Metrics*
+**Database & ETL**  
+• Database Design & Normalization  
+• Data Cleaning & Transformation  
+• Query Performance Optimization
 
 ---
 
-## Contact
+## 💼 Portfolio Projects
 
-📧 bhakatkhush256@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/khush-bhakat-97ba07394)
+### [VelvetVault E-Commerce Insights](https://github.com/bhakatkhush256-eng/ecommerce-sales-customer-insights-sql) 
+**Identified that 18% of customers generated 71% of total revenue** through RFM segmentation analysis. Built SQL queries analyzing 50,000+ transactions to track customer lifetime value, repeat purchase patterns, and seasonal trends. Recommended targeted retention strategies for high-value segments.  
+`SQL` `Revenue Analytics` `Customer Segmentation` `Business Intelligence`
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhakatkhush256-eng&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
+### [Hospital Performance Analysis](https://github.com/bhakatkhush256-eng/hospital-performance-analysis-sql)
+**Analyzed 10,000+ patient records** to uncover department efficiency gaps and billing patterns. Identified peak admission periods and high-cost treatment areas, enabling data-driven resource allocation decisions.  
+`SQL` `Healthcare Analytics` `Operational Metrics`
 
-<h3 align="left">Connect with me:</h3>
+### [HR Analytics Dashboard](https://github.com/bhakatkhush256-eng/hr-analytics-sql)
+**Reduced employee attrition analysis time by 60%** through automated SQL reporting. Examined 5+ years of workforce data to identify turnover patterns by department, tenure, and compensation levels.  
+`SQL` `Human Resources` `Workforce Analytics`
+
+### [Food Delivery Business Intelligence](https://github.com/bhakatkhush256-eng/food-delivery-analysis)
+**Performance benchmarking across 5 Pakistani cities** analyzing delivery times, order values, and customer ratings. Delivered insights on city-level operational efficiency and revenue opportunities.  
+`SQL` `Market Analysis` `Logistics Optimization`
+
+### [PSL 2023-24 Team Performance Analytics](https://github.com/bhakatkhush256-eng/SQL-analysis-of-PSL-team-performance-2023-2024)
+**Comprehensive statistical breakdown of Pakistan Super League season** — batting averages, bowling economy rates, match outcomes. Demonstrated ability to extract meaningful patterns from unstructured sports data.  
+`SQL` `Sports Analytics` `Statistical Analysis`
+
+---
+
+## 📊 Current Focus
+
+Building advanced **Excel portfolio projects** with professional-grade datasets (15,000+ rows), complex formulas, and interactive dashboards. Preparing for **freelance data analyst work** and full-time junior analyst roles in 2027.
+
+**Learning Path**: SQL ✅ | Excel (In Progress) | Power BI | Python for Data Analysis
+
+---
+
+## 📫 Let's Connect
+
+📧 **Email**: bhakatkhush256@gmail.com  
+💼 **LinkedIn**: [linkedin.com/in/khush-bhakat-97ba07394](https://linkedin.com/in/khush-bhakat-97ba07394)  
+🐙 **GitHub**: [@bhakatkhush256-eng](https://github.com/bhakatkhush256-eng)
+
+---
+
+## 🔧 Tools & Technologies
+
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/khush-bhakat-97ba07394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/khush-bhakat-97ba07394" height="30" width="40" /></a>
+<!-- Databases -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="50" height="50"/>
+</a>
+
+<!-- Python & Libraries -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+</a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+</a>
+
+<!-- Data Visualization -->
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50"/>
+
+<!-- Version Control -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhakatkhush256-eng&show_icons=true&locale=en&layout=compact" alt="bhakatkhush256-eng" /></p>
+## 📈 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhakatkhush256-eng&show_icons=true&locale=en" alt="bhakatkhush256-eng" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bhakatkhush256-eng&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhakatkhush256-eng&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhakatkhush256-eng&" alt="bhakatkhush256-eng" /></p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhakatkhush256-eng&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=bhakatkhush256-eng&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+💡 <i>Open to freelance projects and junior data analyst opportunities</i>
+</p>
